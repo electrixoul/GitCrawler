@@ -78,7 +78,7 @@ pip install ghcloneall
 
 ## 4. 可能遇到的问题
 
-1. 执行脚本之后很快输出很多 "please make sure you have the right access" 或者 "Permission denied"
+1. 执行脚本之后很快输出很多 "please make sure you have the correct access rights" 或者 "Permission denied"
 
    这是由于你需要在本地的terminal设置正确的ssh秘钥, 用来自动验证你的github身份 , 参考以下两篇资料进行设置:
 
